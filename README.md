@@ -1,6 +1,11 @@
 # chat_app
 
 A new Flutter project.
+# tools
+-Login 
+-Register 
+-Stream chat app 
+-Statemengment by cubit 
 
 ## Getting Started
 
