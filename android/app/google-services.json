@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444403602536",
+    "project_id": "chat-school-5c241",
+    "storage_bucket": "chat-school-5c241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444403602536:android:c7b7d9fa1f81d79f1597dd",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzg54BzGeB5efPFIojL4KaTwrvR7Utn88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
